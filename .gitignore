@@ -1,3 +1,19 @@
+# Libraries that are not mine
+libraries/fonts/
+libraries/IRremote/
+libraries/LiquidCrystal/
+libraries/Nokia5110/
+libraries/GFXLibrary/
+libraries/Keypad/
+libraries/newIRremote/
+libraries/TVout/
+
+# Image
+Atmega168PinMap2.png
+
+# Gedit backups
+*~
+
 # Compiled Object files
 *.slo
 *.lo
