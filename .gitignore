@@ -1,12 +1,5 @@
 # Libraries that are not mine
-libraries/fonts/
-libraries/IRremote/
-libraries/LiquidCrystal/
-libraries/Nokia5110/
-libraries/GFXLibrary/
-libraries/Keypad/
-libraries/newIRremote/
-libraries/TVout/
+libraries/**
 
 # Image
 Atmega168PinMap2.png
